@@ -1,0 +1,31 @@
+.text-center{
+     font-size: 50px;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      transition-timing-function: 5s;
+      border: 2px solid green;
+      border-radius: 40px;
+      
+  }
+  .text-center:hover{
+    font-size: 60px;
+    color: blue;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
